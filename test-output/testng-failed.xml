@@ -1,0 +1,12 @@
+<suite parallel="methods" name="Failed suite [Regressionrun]">
+  <test thread-count="5" parallel="methods" name="smoketest(failed)">
+    <classes>
+      <class name="basics.LaunchBrowser">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="verifyTitle"/>
+        </methods>
+      </class> <!-- basics.LaunchBrowser -->
+    </classes>
+  </test> <!-- smoketest(failed) -->
+</suite> <!-- Failed suite [Regressionrun] -->

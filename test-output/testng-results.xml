@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T08:03:26 IST" name="Regressionrun" finished-at="2024-06-24T08:04:34 IST" duration-ms="67965">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T08:03:26 IST" name="sampletest" finished-at="2024-06-24T08:03:57 IST" duration-ms="30952">
+      <class name="basics.TableExample">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:26 IST" name="launchBrowser" finished-at="2024-06-24T08:03:57 IST" duration-ms="30555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:26 IST" name="launchBrowser" finished-at="2024-06-24T08:03:57 IST" duration-ms="30319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:26 IST" name="launchBrowser" finished-at="2024-06-24T08:03:57 IST" duration-ms="30423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:26 IST" name="launchBrowser" finished-at="2024-06-24T08:03:57 IST" duration-ms="30350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="printTableHeader()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:57 IST" name="printTableHeader" finished-at="2024-06-24T08:03:57 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTableHeader -->
+        <test-method signature="verifyTableHeader()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:57 IST" name="verifyTableHeader" finished-at="2024-06-24T08:03:57 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableHeader -->
+        <test-method signature="printNames()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:57 IST" name="printNames" finished-at="2024-06-24T08:03:57 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printNames -->
+        <test-method signature="tableBodyPrint()[pri:0, instance:basics.TableExample@7c24b813]" started-at="2024-06-24T08:03:57 IST" name="tableBodyPrint" finished-at="2024-06-24T08:03:57 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableBodyPrint -->
+      </class> <!-- basics.TableExample -->
+      <class name="basics.RadiobuttonTestng">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.RadiobuttonTestng@4b8ee4de]" started-at="2024-06-24T08:03:26 IST" name="launchBrowser" finished-at="2024-06-24T08:03:57 IST" duration-ms="30311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyShowSelectedButtonisEnabled()[pri:0, instance:basics.RadiobuttonTestng@4b8ee4de]" started-at="2024-06-24T08:03:57 IST" name="verifyShowSelectedButtonisEnabled" finished-at="2024-06-24T08:03:57 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShowSelectedButtonisEnabled -->
+      </class> <!-- basics.RadiobuttonTestng -->
+    </test> <!-- sampletest -->
+    <test started-at="2024-06-24T08:03:57 IST" name="smoketest" finished-at="2024-06-24T08:04:34 IST" duration-ms="36850">
+      <class name="basics.LaunchBrowser">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:03:57 IST" name="launchBrowser" finished-at="2024-06-24T08:04:21 IST" duration-ms="23628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:03:57 IST" name="launchBrowser" finished-at="2024-06-24T08:04:21 IST" duration-ms="23621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:03:57 IST" name="launchBrowser" finished-at="2024-06-24T08:04:21 IST" duration-ms="23608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyShowMessage()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:21 IST" name="verifyShowMessage" finished-at="2024-06-24T08:04:21 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShowMessage -->
+        <test-method signature="verifyWhetherShowMessageButtonEnabled()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:21 IST" name="verifyWhetherShowMessageButtonEnabled" finished-at="2024-06-24T08:04:21 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhetherShowMessageButtonEnabled -->
+        <test-method signature="verifyTitle()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:21 IST" name="verifyTitle" finished-at="2024-06-24T08:04:21 IST" duration-ms="106" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [reshmaObsqura Testing] but found [Obsqura Testing]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [reshmaObsqura Testing] but found [Obsqura Testing]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at basics.LaunchBrowser.verifyTitle(LaunchBrowser.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:21 IST" name="launchBrowser" finished-at="2024-06-24T08:04:28 IST" duration-ms="6545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyWhetherShowMessageButtonEnabled()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:28 IST" name="verifyWhetherShowMessageButtonEnabled" finished-at="2024-06-24T08:04:28 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhetherShowMessageButtonEnabled -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:28 IST" name="launchBrowser" finished-at="2024-06-24T08:04:34 IST" duration-ms="6277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyWhetherShowMessageButtonEnabled()[pri:0, instance:basics.LaunchBrowser@6574a52c]" started-at="2024-06-24T08:04:34 IST" name="verifyWhetherShowMessageButtonEnabled" finished-at="2024-06-24T08:04:34 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhetherShowMessageButtonEnabled -->
+      </class> <!-- basics.LaunchBrowser -->
+      <class name="basics.AssertionExample">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:basics.AssertionExample@45099dd3]" started-at="2024-06-24T08:03:57 IST" name="launchBrowser" finished-at="2024-06-24T08:04:21 IST" duration-ms="23830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyJqueyHeader()[pri:0, instance:basics.AssertionExample@45099dd3]" started-at="2024-06-24T08:04:21 IST" name="verifyJqueyHeader" finished-at="2024-06-24T08:04:21 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJqueyHeader -->
+      </class> <!-- basics.AssertionExample -->
+    </test> <!-- smoketest -->
+  </suite> <!-- Regressionrun -->
+</testng-results>

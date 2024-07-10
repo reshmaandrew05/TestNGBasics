@@ -1,0 +1,16 @@
+<suite name="Regressionrun">
+	<test name="sampletest">
+		<classes>
+
+			<class name="basics.RadiobuttonTestng"></class>
+			<methodss>
+				<include name="verifyShowSelectedButtonisEnabled">
+				</include>
+			</methodss>
+
+
+
+
+		</classes>
+	</test>
+</suite>

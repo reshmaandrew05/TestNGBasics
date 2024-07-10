@@ -1,0 +1,17 @@
+
+<suite name="Regressionrun" thread-count="5" parallel="methods"> 
+	<test name="sampletest">
+		<classes>
+			<class name="basics.TableExample"></class>
+			<class name="basics.RadiobuttonTestng"></class>
+			
+		</classes>
+	</test>
+	<test name="smoketest">
+		<classes>
+			<class name="basics.AssertionExample"></class>
+			<class name="basics.LaunchBrowser"></class>
+			
+		</classes>
+	</test>
+</suite>

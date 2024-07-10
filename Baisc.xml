@@ -1,0 +1,10 @@
+
+<suite name="Regressionrun">
+	<test name="sampletest">
+		<classes>
+			<class name="basics.TableExample"></class>
+			<class name="basics.RadiobuttonTestng"></class>
+			
+		</classes>
+	</test>
+</suite>
